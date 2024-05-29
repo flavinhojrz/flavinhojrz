@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aluno de Ciência da Computação da UFRN, especializando-se em Ciência de Dados e Machine Learning.
+Computer Science student at UFRN, specializing in Data Science and Machine Learning.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maverick#7912) 
