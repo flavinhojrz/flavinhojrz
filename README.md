@@ -13,8 +13,4 @@ Computer Science student at UFRN, specializing in Data Science and Machine Learn
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%) 
 
-# 🖥️ Web technologies dedicated profile
-[![GitHub](https://img.shields.io/badge/Github-%FFFFFFF.svg?logo=Github&logoColor=black)](https://github.com/FlavioJunior2021)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
