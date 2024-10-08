@@ -15,3 +15,4 @@ Computer Science student at UFRN, specializing in Data Science and Machine Learn
 ![python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake animation](https://github.com/flavinhojrz/flavinhojrz/blob/output/github-contribution-grid-snake2.svg)
