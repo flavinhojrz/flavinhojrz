@@ -13,5 +13,6 @@ Computer Science student at UFRN, specializing in Data Science and Machine Learn
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%) 
+![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=C++&logoColor=%)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
