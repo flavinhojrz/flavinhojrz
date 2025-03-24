@@ -5,7 +5,7 @@ Computer Science student at UFRN, specializing in Data Science and Machine Learn
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maverick#7912) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flaviojrzz_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flavjr) 
-[![Website](https://img.shields.io/badge/website-%230077B5.svg?logo=website&logoColor=white)](simple-portifolio-pearl.vercel.app)
+[![Website](https://img.shields.io/badge/website-%230077B5.svg?logo=website&logoColor=white)](https://simple-portifolio-pearl.vercel.app)
 
 # 💻 Tech Stack:
 
