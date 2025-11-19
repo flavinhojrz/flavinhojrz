@@ -55,5 +55,5 @@ Possuo especialização em Data Science e Machine Learning, aplicando análise d
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maverick#7912) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flaviojrzz_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flavjr) 
-[![Website](https://img.shields.io/badge/website-%230077B5.svg?logo=website&logoColor=white)](https://simple-portifolio-pearl.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavinhojr/) 
+[![Website](https://img.shields.io/badge/website-%230077B5.svg?logo=website&logoColor=white)](https://flavinho-personal-dev.vercel.app/)
